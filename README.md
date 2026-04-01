@@ -2,8 +2,8 @@
 
 HealthPlus is a modern web application designed to support health and wellness engagement through activity tracking, goal setting, and user-focused insights. The application is built using the Lovable platform and focuses on simplicity, usability, and rapid iteration.
 
-Live Application: https://healthplus-wellness.lovable.app/
-Product Specs Doc: https://shiny-comfort-36f.notion.site/HealthPlus-Wellness-App-335bede89574808b84ffe247fb6c71bf
+- Live Application: https://healthplus-wellness.lovable.app/
+- Product Specs Doc: https://shiny-comfort-36f.notion.site/HealthPlus-Wellness-App-335bede89574808b84ffe247fb6c71bf
 
 <img width="393" height="787" alt="Screenshot 2026-02-09 at 12 58 10 AM" src="https://github.com/user-attachments/assets/666268f0-a13e-48c5-8b67-867d5c97fa0c" />
 <img width="393" height="787" alt="Screenshot 2026-02-09 at 12 58 05 AM" src="https://github.com/user-attachments/assets/423630ee-c835-4a4b-bd24-e64d1a907241" />
